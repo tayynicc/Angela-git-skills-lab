@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {"id": 1, "name": "Create feature branch", "completed": false},
+    {"id": 2, "name": "Resolve merge conflict", "completed": false},
+    {"id": 3, "name": "Rebase and squash commits", "completed": false},
+    {"id": 4, "name": "Cherry-pick commit", "completed": false},
+    {"id": 5, "name": "Recover from hard reset", "completed": false}
+  ]
+}
+
